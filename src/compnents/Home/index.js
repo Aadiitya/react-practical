@@ -2,8 +2,8 @@ import React from "react";
 
 function index() {
   return (
-    <div className='container text-center'>
-      <h1>Welcome The Dashboad!</h1>
+    <div className="header">
+      <h1>ToDo List</h1>
     </div>
   );
 }
